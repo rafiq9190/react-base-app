@@ -1,5 +1,5 @@
 import React from 'react'
 
-function Home (){
+export default function Home (){
 <div >helo from home page</div>
 }
