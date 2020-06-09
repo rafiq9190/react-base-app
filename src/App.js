@@ -8,7 +8,7 @@ import './App.css';
     <div className="App">
       <h1>hello world</h1>
       <h2>we are learn now things </h2>
-      <Home  firstName="raifq" lastName="hanif" color="black"/>
+      <Home  title="new Object" body="this is passing props"  />
     
        
       
