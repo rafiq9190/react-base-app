@@ -1,7 +1,11 @@
 import React from 'react'
 
-export default function Home (){
+export default function Home (props){
     return(
-<div  fname="raifq" lName="hanif">helo from home page</div>
+<div >helo from home page
+<h2>{props.fName}</h2>
+<h3>{props.lname}</h3>
+</div>
+
     )
 }
