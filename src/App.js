@@ -3,7 +3,7 @@ import Home from './components/home'
 
 import './App.css';
 
-export default function App(props) {
+ function App(props) {
   return (
     <div className="App">
       <h1>hello world</h1>
