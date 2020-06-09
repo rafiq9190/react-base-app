@@ -8,7 +8,10 @@ import './App.css';
     <div className="App">
       <h1>hello world</h1>
       <h2>we are learn now things </h2>
-      <Home></Home>
+      <Home>
+        {props.fName}
+        {props.lName}
+      </Home>
     </div>
   );
 }

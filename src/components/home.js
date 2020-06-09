@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function Home (){
     return(
-<div >helo from home page</div>
+<div  fname="raifq" lName="hanif">helo from home page</div>
     )
 }
